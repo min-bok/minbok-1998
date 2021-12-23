@@ -3,19 +3,23 @@
 </div>  
   
 
-### <div align="center">안녕하세요 저는 이혜영 입니다. 반갑습니다!😊</div>  
+### <div align="center">안녕하세요! 저는 이혜영입니다.</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- ❤ 제 Github 주소는 [https://github.com/minbok-1998](https://github.com/rishavanand/github-profilinator) 입니다.  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🧡 저는 블로그를 운영하고 있고, https://velog.io/@minbok  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 💛 Instgram에 귀여운 토이 프로젝트를 올리기도 합니다https://www.instagram.com/min_boks_/?hl=ko  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+* 💚 토이 프로젝트 코드는 코드펜에서도 
+https://codepen.io/your-work 보실 수 있습니다.  
+  
+
+* 💙 제 졸업작품은 여기서 http://www.dcd22nd.com/graduate.html 보실 수 있습니다.  
   
 
 <br/>  
