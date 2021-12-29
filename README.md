@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59?&height=200)
+
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
@@ -83,4 +85,3 @@ You can find my articles on the website at https://velog.io/@minbok
   &nbsp
    <img src="https://github-readme-stats.vercel.app/api?username=minbok-1998&show_icons=true&theme=dracula" height="180px">
 </div>
-
