@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">안녕하세요! 저는 이혜영입니다.</div>  
+### <div align="center">안녕하세요! 저는 이혜영입니다.</div>  👩‍🦰
   
 
 - ❤ 제 Github 주소는 [https://github.com/minbok-1998](https://github.com/rishavanand/github-profilinator) 입니다.  
