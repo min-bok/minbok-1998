@@ -1,14 +1,15 @@
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
-I'm Hyeyeong and I'm a student studying to become a Front-end Developer.
+I'm Hyeyeong and I'm a student studying to become a Front-end Developer.<br>
 I'm from Korea, living in Seoul, and currently studying at Likelion Front-end School!
 
 <br>
 
 ### ✍ Blog
 ---
-I have a tech blog. I'm writing TIL(Today what I Learn) about front-end skills like HTML, CSS, Javascript, jQuery, SASS, and Node.js. 
+I have a tech blog. I'm writing TIL(Today what I Learn) about front-end skills
+<br>like HTML, CSS, Javascript, jQuery, SASS, and Node.js. 
 
 You can find my articles on the website at https://velog.io/@minbok
 
@@ -18,7 +19,7 @@ You can find my articles on the website at https://velog.io/@minbok
 ### 🛠 Tech Stacks and Tools
 ---
 <div align="center">
-Techs that I've used at least once
+✨ <span style="color:grey"><b>Techs that I've used at least once</b><span>
 </div>
 <br>
 <div align="center">
