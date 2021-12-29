@@ -78,12 +78,9 @@ You can find my articles on the website at https://velog.io/@minbok
 
 ### 📈 Github stats
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minbok-1998&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minbok-1998&langs_count=8&theme=dracula" height="180px">
+  &nbsp
+   <img src="https://github-readme-stats.vercel.app/api?username=minbok-1998&show_icons=true&theme=dracula" height="180px">
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minbok-1998&show_icons=true&theme=dracula)
-  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
