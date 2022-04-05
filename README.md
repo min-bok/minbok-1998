@@ -11,7 +11,7 @@ I'm from Korea, living in Seoul, and currently studying at Likelion Front-end Sc
 ### ✍ Blog
 ---
 I have a tech blog. I'm writing TIL(Today what I Learn) about front-end skills
-<br>like HTML, CSS, Javascript, jQuery, SASS, and Node.js. 
+<br>like HTML, CSS, Javascript, React, jQuery, and Node.js. 
 
 You can find my articles on the website at https://velog.io/@minbok
 
