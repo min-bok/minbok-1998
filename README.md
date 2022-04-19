@@ -3,8 +3,13 @@
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
-I'm Hyeyeong and I'm a student studying to become a Front-end Developer.<br>
-I'm from Korea, living in Seoul, and currently studying at Likelion Front-end School!
+안녕하세요 프론트엔드 개발자가 되기 위해 공부하고 있는 이혜영입니다.<br>
+
+디자인을 전공하며 웹 기획, 디자인, 퍼블리싱을 경험하였으며,<br>
+멋쟁이 사자처럼 프론트엔드 스쿨에서 React, Node.js 등을 학습하였습니다.<br>
+
+최근에는 백엔드 개발자와 협업하여 울산대학교 학생들을 위한 SNS를 제작 중이며,<br>
+더 효율적인 코드를 작성하기 위해 알고리즘 및 자료구조 공부도 병행하고 있습니다.
 
 <br>
 
